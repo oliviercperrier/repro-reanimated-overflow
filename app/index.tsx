@@ -15,7 +15,8 @@ const index = () => {
       >
         <Button />
         <Button />
-        <Text style={{ color: "white" }}>
+        {/**
+         * <Text style={{ color: "white" }}>
           Some Text to make the view height bigger
         </Text>
         <Text style={{ color: "white" }}>
@@ -90,6 +91,7 @@ const index = () => {
         <Text style={{ color: "white" }}>
           Some Text to make the view height bigger
         </Text>
+         */}
       </View>
     </ScrollView>
   );
